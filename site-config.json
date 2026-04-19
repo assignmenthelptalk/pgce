@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "siteTitle": "PGCE Assignment Help | Trainee Teacher Assignment Support",
+    "siteDescription": "Professional PGCE assignment help for trainee teachers on Primary, Secondary, and FE programmes. Reflective practice, lesson study, Teachers' Standards. Trusted by 3,500+ trainees.",
+    "siteUrl": "https://pgce-assignment-help.co.uk",
+    "faviconPath": "/favicon.ico",
+    "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+  },
+  "colors": {
+    "primary": "#312E81",
+    "primaryDark": "#1E1B69",
+    "accent": "#FBBF24",
+    "accentDark": "#F59E0B",
+    "accentLight": "#FEF9C3",
+    "gold": "#FBBF24",
+    "goldDark": "#F59E0B",
+    "textBase": "#1A1A2E",
+    "textMuted": "#6B7280",
+    "bgWhite": "#FFFFFF",
+    "bgLight": "#F3F4F6",
+    "bgDark": "#312E81",
+    "borderLight": "#E5E7EB",
+    "starColor": "#F59E0B",
+    "white": "#FFFFFF"
+  },
+  "typography": {
+    "fontFamily": "'Inter', sans-serif"
+  },
+  "header": {
+    "logoText": "PGCE Help",
+    "logoHref": "/",
+    "navLinks": [
+      { "label": "Services", "href": "#services" },
+      { "label": "About", "href": "#about" },
+      { "label": "How It Works", "href": "#how-it-works" },
+      { "label": "FAQ", "href": "#faq" }
+    ],
+    "ctaButton": { "label": "Get Help Now", "href": "#contact" }
+  },
+  "hero": {
+    "headingLine1": "Expert",
+    "headingHighlight": "PGCE Assignment Help",
+    "headingLine3": "For Trainee Teachers",
+    "subtext": "Struggling with PGCE reflective practice, lesson study assignments, or Teachers' Standards evidence? Our education specialists deliver academically rigorous, placement-linked assignment support.",
+    "primaryCta": { "label": "Get Your Assignment Done", "href": "#contact" },
+    "secondaryCta": { "label": "See how it works", "href": "#how-it-works" },
+    "badges": [
+      { "icon": "✓", "text": "100% Plagiarism Free" },
+      { "icon": "✓", "text": "On-Time Delivery" },
+      { "icon": "✓", "text": "Expert PGCE Writers" },
+      { "icon": "✓", "text": "Free Revisions" },
+      { "icon": "✓", "text": "Confidential & Secure" }
+    ]
+  },
+  "stats": [
+    { "icon": "🎓", "value": "3,500+", "label": "Assignments Completed" },
+    { "icon": "⭐", "value": "4.9/5", "label": "Average Rating" },
+    { "icon": "📅", "value": "96%", "label": "On-Time Delivery" },
+    { "icon": "🏆", "value": "9+", "label": "Years Experience" }
+  ],
+  "about": {
+    "sectionId": "about",
+    "heading": "Why Trainee Teachers Trust Our PGCE Assignment Help",
+    "paragraphs": [
+      "We specialise exclusively in PGCE assignments across Primary, Secondary, and Further Education routes — with a team of writers who have completed PGCE programmes themselves and understand exactly what university tutors and mentors expect.",
+      "Every assignment we produce connects educational theory to real classroom practice, meets Teachers' Standards requirements, and applies the reflective frameworks your programme specifies — Gibbs, Schön, Kolb, or Brookfield."
+    ],
+    "highlights": [
+      "PGCE-qualified writers with direct placement experience",
+      "Full Teachers' Standards alignment (DfE, 2021)",
+      "Academic Harvard referencing as standard",
+      "Turnitin originality report included with every order"
+    ],
+    "imagePlaceholderAlt": "PGCE Assignment Help — trusted by 3,500+ trainee teachers"
+  },
+  "qualifications": {
+    "sectionId": "services",
+    "heading": "PGCE Programmes We Cover",
+    "subheading": "Expert support across all PGCE routes — Primary, Secondary, and Further Education.",
+    "cards": [
+      {
+        "icon": "🎓",
+        "title": "PGCE Assignment Help",
+        "description": "Academically rigorous assignment support for trainee teachers across all PGCE routes — reflective practice, lesson study, and Teachers' Standards evidence.",
+        "href": "/pgce-assignment-help"
+      },
+      {
+        "icon": "🏫",
+        "title": "PGCE Primary Assignment Help",
+        "description": "Expert support for Primary PGCE trainees covering child development theory, early years practice, curriculum design, and inclusive teaching strategies.",
+        "href": "/pgce-primary-assignment-help"
+      },
+      {
+        "icon": "🏫",
+        "title": "PGCE Secondary Assignment Help",
+        "description": "Subject-specialist support for Secondary PGCE trainees — pedagogical theory, behaviour management, assessment for learning, and subject knowledge audits.",
+        "href": "/pgce-secondary-assignment-help"
+      },
+      {
+        "icon": "🎓",
+        "title": "PGCE Further Education Help",
+        "description": "Specialist support for PCET trainee teachers covering andragogy, inclusive practice, vocational pedagogy, and FE curriculum frameworks.",
+        "href": "/pgce-further-education-assignment-help"
+      },
+      {
+        "icon": "🪞",
+        "title": "PGCE Reflective Writing Help",
+        "description": "Academic reflection structured correctly — moving beyond description to critical analysis using Gibbs, Schön, Kolb, or Brookfield frameworks.",
+        "href": "/pgce-reflective-writing-help"
+      }
+    ]
+  },
+  "features": {
+    "heading": "What's Included in Every Order",
+    "cards": [
+      { "icon": "📝", "title": "Custom Written Content", "description": "Every piece is written from scratch to your brief, module outcomes, and word count." },
+      { "icon": "🔍", "title": "Plagiarism Report", "description": "Turnitin originality report included with every submission." },
+      { "icon": "📚", "title": "Full Harvard Referencing", "description": "Properly formatted reference list and in-text citations per university requirements." },
+      { "icon": "✏️", "title": "Unlimited Revisions", "description": "Not satisfied? We revise until the work meets your expectations." },
+      { "icon": "🔒", "title": "Strict Confidentiality", "description": "Your identity and order details are never shared with third parties." },
+      { "icon": "⚡", "title": "Express Delivery", "description": "Need it fast? We offer 24-hour turnaround for urgent assignment deadlines." }
+    ]
+  },
+  "whyChooseUs": {
+    "heading": "Why Choose Us Over Others",
+    "items": [
+      { "icon": "🎯", "title": "PGCE Specialists", "description": "Unlike generic essay services, we focus exclusively on PGCE assignments and understand what university tutors and school mentors expect." },
+      { "icon": "👨‍🏫", "title": "Qualified Writers", "description": "All writers hold PGCE qualifications and have direct experience with Primary, Secondary, and FE trainee assessments." },
+      { "icon": "💬", "title": "Direct Communication", "description": "Message your writer directly via our platform throughout the project." },
+      { "icon": "💰", "title": "Transparent Pricing", "description": "Fixed prices published upfront. No hidden fees, ever." }
+    ]
+  },
+  "testimonials": {
+    "heading": "What Our Students Say",
+    "items": [
+      {
+        "stars": 5,
+        "quote": "My reflective account was exactly what my tutor described — it went beyond description into genuine critical analysis using Gibbs. First time pass with a strong commendation.",
+        "name": "Emma R.",
+        "course": "PGCE Primary"
+      },
+      {
+        "stars": 5,
+        "quote": "The lesson study assignment was outstanding. The writer connected Vygotsky and Rosenshine perfectly to my observed lesson and my mentor said it was one of the best she'd read.",
+        "name": "James K.",
+        "course": "PGCE Secondary English"
+      },
+      {
+        "stars": 5,
+        "quote": "My FE curriculum design assignment came back with full marks. The andragogy theory was applied correctly and all Teachers' Standards were clearly referenced.",
+        "name": "Priya T.",
+        "course": "PGCE Further Education"
+      }
+    ]
+  },
+  "howItWorks": {
+    "sectionId": "how-it-works",
+    "heading": "How It Works",
+    "subheading": "Four simple steps from placement to distinction-grade assignment.",
+    "steps": [
+      { "number": "01", "title": "Submit Your Brief", "description": "Share your module brief, word count, deadline, and any placement context or feedback from your tutor." },
+      { "number": "02", "title": "Get Matched", "description": "We assign your order to a PGCE-specialist writer within 30 minutes." },
+      { "number": "03", "title": "Track Progress", "description": "Monitor your assignment in real-time and message your writer directly." },
+      { "number": "04", "title": "Download & Submit", "description": "Receive your completed, plagiarism-checked assignment before your deadline." }
+    ]
+  },
+  "faq": {
+    "heading": "Frequently Asked Questions",
+    "items": [
+      { "question": "Is this service specific to PGCE qualifications?", "answer": "Yes. We specialise exclusively in PGCE assignments across Primary, Secondary, and Further Education routes. Our writers are selected for their knowledge of PGCE module content, university marking criteria, and Teachers' Standards — not generic academic writing." },
+      { "question": "Will my assignment be plagiarism free?", "answer": "Every assignment is written from scratch and run through Turnitin before delivery. You receive a copy of the originality report alongside your completed work." },
+      { "question": "How quickly can you complete my assignment?", "answer": "Standard turnaround is 5–7 days. For urgent orders we offer 24-hour and 48-hour expedited delivery at an additional cost. Contact us to confirm availability for your deadline." },
+      { "question": "What if I'm not happy with the work?", "answer": "We offer unlimited free revisions within 14 days of delivery. If we cannot meet your requirements after multiple revisions, we offer a full refund — no questions asked." },
+      { "question": "Is my information kept confidential?", "answer": "Absolutely. We never share your personal information or order details with any third party. Payments are processed through secure, encrypted channels." },
+      { "question": "What are the DfE Teachers' Standards and how do I reference them?", "answer": "The DfE Teachers' Standards are 8 core standards (plus Part 2 on personal and professional conduct) that all qualified teachers in England must meet. PGCE assignments must consistently reference the relevant standards by number and description. Our education specialists ensure your assignments demonstrate clear standards alignment." },
+      { "question": "Which reflective practice frameworks should I use in PGCE assignments?", "answer": "The most commonly used PGCE reflective frameworks are Gibbs' Reflective Cycle, Schön's Reflection-in/on-Action, Kolb's Experiential Learning Cycle, and Brookfield's Four Lenses. Your programme will usually specify a preferred framework — our team is expert in all four." },
+      { "question": "Which PGCE routes do you support?", "answer": "We support Primary, Secondary, and Further Education (PCET) PGCE routes across university-led, School Direct, and SCITT programmes. We cover all subjects at Secondary level and all aspects of FE/post-16 teaching practice." }
+    ]
+  },
+  "mission": {
+    "heading": "Our Mission",
+    "text": "To support trainee teachers through the most demanding professional qualification in education — providing expert assignment guidance that connects educational theory to real classroom practice."
+  },
+  "finalCta": {
+    "heading": "Ready to Excel in Your PGCE?",
+    "subtext": "Join 3,500+ trainee teachers who've submitted outstanding reflective accounts and assignments with our expert support.",
+    "button": { "label": "Start Your Order Today", "href": "#contact" }
+  },
+  "footer": {
+    "logoText": "PGCE Help",
+    "description": "The UK's specialist in PGCE trainee teacher assignment support. Trusted by 3,500+ trainees across Primary, Secondary, and FE routes.",
+    "columns": [
+      {
+        "heading": "Quick Links",
+        "links": [
+          { "label": "Services", "href": "#services" },
+          { "label": "About Us", "href": "#about" },
+          { "label": "How It Works", "href": "#how-it-works" },
+          { "label": "FAQ", "href": "#faq" }
+        ]
+      },
+      {
+        "heading": "Contact",
+        "links": [
+          { "label": "support@pgce-assignment-help.co.uk", "href": "mailto:support@pgce-assignment-help.co.uk" },
+          { "label": "WhatsApp Us", "href": "https://wa.me/447916696894" }
+        ]
+      }
+    ],
+    "copyright": "© 2025 PGCE Assignment Help. All rights reserved."
+  }
+}
