@@ -50,7 +50,11 @@
       { "icon": "✓", "text": "Expert PGCE Writers" },
       { "icon": "✓", "text": "Free Revisions" },
       { "icon": "✓", "text": "Confidential & Secure" }
-    ]
+    ],
+    "image": {
+      "src": "/hero-student.png",
+      "alt": "PGCE trainee teacher studying in a university lecture hall"
+    }
   },
   "stats": [
     { "icon": "🎓", "value": "3,500+", "label": "Assignments Completed" },
