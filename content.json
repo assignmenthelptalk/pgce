@@ -464,7 +464,14 @@
           "slug": "pgce-reflective-writing-help"
         }
       ],
-      "contextualQuestion": "How does analytically embedding Teachers' Standards evidence within a critical argument differ from simply listing which standard a lesson or incident relates to?"
+      "contextualQuestion": "How does analytically embedding Teachers' Standards evidence within a critical argument differ from simply listing which standard a lesson or incident relates to?",
+      "headerImage": {
+        "src": "/header_teachers-standards-in-pgce-assignments-explained.webp",
+        "alt": "Teachers' Standards in PGCE Assignments — TS1 to TS8 Explained",
+        "title": "Teachers' Standards in PGCE Assignments — TS1 to TS8 Explained",
+        "width": 1200,
+        "height": 400
+      }
     },
     {
       "slug": "pgce-behaviour-management-assignment-help",
@@ -518,7 +525,14 @@
           "slug": "teachers-standards-in-pgce-assignments-explained"
         }
       ],
-      "contextualQuestion": "How does critically evaluating the theoretical basis of a behaviour management approach — rather than simply describing it — define postgraduate-level writing in a PGCE behaviour assignment?"
+      "contextualQuestion": "How does critically evaluating the theoretical basis of a behaviour management approach — rather than simply describing it — define postgraduate-level writing in a PGCE behaviour assignment?",
+      "headerImage": {
+        "src": "/header_pgce-behaviour-management-assignment-help.webp",
+        "alt": "PGCE Behaviour Management Assignment Help — Theory and Teachers' Standard 5",
+        "title": "PGCE Behaviour Management Assignment Help — Theory and Teachers' Standard 5",
+        "width": 1200,
+        "height": 400
+      }
     },
     {
       "slug": "pgce-assessment-for-learning-assignment-help",
@@ -572,7 +586,14 @@
           "slug": "teachers-standards-in-pgce-assignments-explained"
         }
       ],
-      "contextualQuestion": "How does engaging critically with Black and Wiliam's formative assessment research connect the empirical evidence base to what trainee teachers must demonstrate in PGCE assignment writing?"
+      "contextualQuestion": "How does engaging critically with Black and Wiliam's formative assessment research connect the empirical evidence base to what trainee teachers must demonstrate in PGCE assignment writing?",
+      "headerImage": {
+        "src": "/header_pgce-assessment-for-learning-assignment-help.webp",
+        "alt": "PGCE Assessment for Learning Assignment Help — AfL Theory and Feedback",
+        "title": "PGCE Assessment for Learning Assignment Help — AfL Theory and Feedback",
+        "width": 1200,
+        "height": 400
+      }
     },
     {
       "slug": "pgce-sen-and-inclusion-assignment-help",
@@ -626,7 +647,14 @@
           "slug": "teachers-standards-in-pgce-assignments-explained"
         }
       ],
-      "contextualQuestion": "How does the distinction between the social model and medical model of disability define the ideological framing expected in a PGCE SEND or inclusion assignment?"
+      "contextualQuestion": "How does the distinction between the social model and medical model of disability define the ideological framing expected in a PGCE SEND or inclusion assignment?",
+      "headerImage": {
+        "src": "/header_pgce-sen-and-inclusion-assignment-help.webp",
+        "alt": "PGCE SEN and Inclusion Assignment Help — SEND Code of Practice and Inclusive Pedagogy",
+        "title": "PGCE SEN and Inclusion Assignment Help — SEND Code of Practice and Inclusive Pedagogy",
+        "width": 1200,
+        "height": 400
+      }
     },
     {
       "slug": "pgce-subject-knowledge-audit-help",
@@ -680,7 +708,14 @@
           "slug": "teachers-standards-in-pgce-assignments-explained"
         }
       ],
-      "contextualQuestion": "How does connecting subject knowledge gaps to pedagogical implications — not just curriculum content gaps — define the depth of critical self-evaluation expected in a PGCE subject knowledge audit?"
+      "contextualQuestion": "How does connecting subject knowledge gaps to pedagogical implications — not just curriculum content gaps — define the depth of critical self-evaluation expected in a PGCE subject knowledge audit?",
+      "headerImage": {
+        "src": "/header_pgce-subject-knowledge-audit-help.webp",
+        "alt": "PGCE Subject Knowledge Audit Help — SKA Structure and Development Plan",
+        "title": "PGCE Subject Knowledge Audit Help — SKA Structure and Development Plan",
+        "width": 1200,
+        "height": 400
+      }
     },
     {
       "slug": "pgce-lesson-study-assignment-help",
@@ -738,7 +773,14 @@
           "slug": "pgce-secondary-assignment-help"
         }
       ],
-      "contextualQuestion": "How does the integration of pupil response data with pedagogical theory define the postgraduate analytical standard required in a PGCE lesson study submission?"
+      "contextualQuestion": "How does the integration of pupil response data with pedagogical theory define the postgraduate analytical standard required in a PGCE lesson study submission?",
+      "headerImage": {
+        "src": "/header_pgce-lesson-study-assignment-help.webp",
+        "alt": "PGCE Lesson Study Assignment Help — Plan, Teach, and Write Up",
+        "title": "PGCE Lesson Study Assignment Help — Plan, Teach, and Write Up",
+        "width": 1200,
+        "height": 400
+      }
     },
     {
       "slug": "pgce-curriculum-design-assignment-help",
@@ -792,7 +834,14 @@
           "slug": "teachers-standards-in-pgce-assignments-explained"
         }
       ],
-      "contextualQuestion": "How does critical engagement with the philosophical tension between knowledge-rich and process-based curriculum models define the analytical depth expected in a PGCE curriculum essay?"
+      "contextualQuestion": "How does critical engagement with the philosophical tension between knowledge-rich and process-based curriculum models define the analytical depth expected in a PGCE curriculum essay?",
+      "headerImage": {
+        "src": "/header_pgce-curriculum-design-assignment-help.webp",
+        "alt": "PGCE Curriculum Design Assignment Help — Curriculum Theory and Sequencing",
+        "title": "PGCE Curriculum Design Assignment Help — Curriculum Theory and Sequencing",
+        "width": 1200,
+        "height": 400
+      }
     },
     {
       "slug": "pgce-assignment-referral-and-resubmission-guide",
@@ -846,7 +895,14 @@
           "slug": "teachers-standards-in-pgce-assignments-explained"
         }
       ],
-      "contextualQuestion": "How do the specific referral feedback conventions used by PGCE university providers create the gap between knowing an assignment failed and knowing how to fix it?"
+      "contextualQuestion": "How do the specific referral feedback conventions used by PGCE university providers create the gap between knowing an assignment failed and knowing how to fix it?",
+      "headerImage": {
+        "src": "/header_pgce-assignment-referral-and-resubmission-guide.webp",
+        "alt": "PGCE Assignment Referral and Resubmission Guide — Recovery and Appeals",
+        "title": "PGCE Assignment Referral and Resubmission Guide — Recovery and Appeals",
+        "width": 1200,
+        "height": 400
+      }
     },
     {
       "slug": "pgce-secondary-english-assignment-help",
@@ -896,7 +952,14 @@
           "slug": "teachers-standards-in-pgce-assignments-explained"
         }
       ],
-      "contextualQuestion": "How does engagement with the theoretical tension between phonics-first and whole language reading approaches define the academic depth expected in a PGCE English subject pedagogy assignment?"
+      "contextualQuestion": "How does engagement with the theoretical tension between phonics-first and whole language reading approaches define the academic depth expected in a PGCE English subject pedagogy assignment?",
+      "headerImage": {
+        "src": "/header_pgce-secondary-english-assignment-help.webp",
+        "alt": "PGCE Secondary English Assignment Help — Subject Pedagogy and Reading Theory",
+        "title": "PGCE Secondary English Assignment Help — Subject Pedagogy and Reading Theory",
+        "width": 1200,
+        "height": 400
+      }
     },
     {
       "slug": "pgce-secondary-maths-assignment-help",
@@ -946,7 +1009,14 @@
           "slug": "teachers-standards-in-pgce-assignments-explained"
         }
       ],
-      "contextualQuestion": "How does analysing specific mathematical misconceptions and their conceptual roots define the pedagogical depth expected in a PGCE Secondary Maths subject assignment?"
+      "contextualQuestion": "How does analysing specific mathematical misconceptions and their conceptual roots define the pedagogical depth expected in a PGCE Secondary Maths subject assignment?",
+      "headerImage": {
+        "src": "/header_pgce-secondary-maths-assignment-help.webp",
+        "alt": "PGCE Secondary Maths Assignment Help — Mastery Teaching and Maths Pedagogy",
+        "title": "PGCE Secondary Maths Assignment Help — Mastery Teaching and Maths Pedagogy",
+        "width": 1200,
+        "height": 400
+      }
     }
   ]
 }
